@@ -134,8 +134,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For support and questions:
 - Create an issue in the repository
-- Join our [Discord community](https://discord.gg/iacbuildbot)
-- Email: support@iacbuildbot.dev
+- Email: tusharupase786@gmail.com
 
 ---
 
